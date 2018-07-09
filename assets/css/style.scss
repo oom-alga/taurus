@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    &:hover{
+        text-decoration: none;
+    }
+}
+body{
+    background-color: #fff;
+}
+
+/* ------------------------------------------------------------------------------
+	 Header
+-------------------------------------------------------------------------------*/
+@import 'page/header';
+@import 'page/write';
+@import 'page/portfolio';
+@import 'page/navigation';
+
+
+
+@import 'page/responsive';
+
+

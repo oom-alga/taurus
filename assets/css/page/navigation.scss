@@ -1,0 +1,18 @@
+.view-all{
+    padding: 10px;
+    p{
+        float: right;
+        margin-right: 30px;
+        width: auto;
+        padding: 10px 20px 5px;
+        border: 1px solid #ccc;
+        background-color: #fff;
+        -webkit-transition: all 0.3s; /* Safari */
+        transition: all  0.3s;
+        &:hover{
+			background-color: #a1a4a8;
+			color: #fff;
+			border:1px dotted #e84545;
+		}
+    }
+}
