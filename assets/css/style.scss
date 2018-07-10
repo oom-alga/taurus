@@ -8,6 +8,20 @@ body{
     background-color: #fff;
 }
 
+
+.img-flex{
+    -webkit-box-flex: auto;
+    -ms-flex: auto;
+    flex: auto;
+}
+
+.img-flex img {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
 /* ------------------------------------------------------------------------------
 	 Header
 -------------------------------------------------------------------------------*/

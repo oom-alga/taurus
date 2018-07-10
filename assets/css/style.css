@@ -6,6 +6,18 @@ a {
 body {
   background-color: #fff; }
 
+.img-flex {
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto; }
+
+.img-flex img {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: 250px;
+  object-fit: cover; }
+
 /* ------------------------------------------------------------------------------
 	 Header
 -------------------------------------------------------------------------------*/
@@ -191,6 +203,10 @@ body {
 
 #portfolio * {
   z-index: 2; }
+#portfolio.portfolio3 {
+  padding-top: 100px; }
+  #portfolio.portfolio3 .portfolio-item img {
+    height: 550px; }
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 20px;
@@ -250,7 +266,7 @@ body {
   #portfolio .portfolio-item:hover {
     cursor: pointer; }
 
-.ats {
+.index2 {
   background-image: url(../../images/portfolio/adult-arms-crossed-bow-tie-1702.jpg);
   background-position: center;
   background-size: cover;
@@ -263,10 +279,10 @@ body {
   font-size: 20vw;
   font-weight: 900;
   text-align: center; }
-  .ats:before, .ats:after {
+  .index2:before, .index2:after {
     position: absolute;
     content: ''; }
-  .ats:before {
+  .index2:before {
     z-index: -2;
     top: 0;
     right: 0;
@@ -275,7 +291,7 @@ body {
     background-image: url(../../images/portfolio/adult-arms-crossed-bow-tie-1702.jpg);
     background-position: center;
     background-size: cover; }
-  .ats:after {
+  .index2:after {
     position: absolute;
     z-index: -1;
     top: .15em;
@@ -285,7 +301,21 @@ body {
     background-color: rgba(255, 255, 255, 0.95); }
 
 .about {
-  background-color: red; }
+  margin: 75px auto; }
+
+.art2 {
+  background-color: #F0F0F0;
+  padding: 75px 0; }
+  .art2 .about2 img {
+    border: 15px solid #fff; }
+  .art2 .about2 .article {
+    padding: 50px 0; }
+    .art2 .about2 .article i {
+      font-size: 32px;
+      font-weight: 800; }
+
+.index3.img-flex img {
+  height: 100vh; }
 
 .view-all {
   padding: 10px; }
