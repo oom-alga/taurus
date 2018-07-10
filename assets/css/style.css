@@ -29,7 +29,6 @@ body {
     -webkit-transition: padding 0.3s;
     transition: padding 0.3s; }
     #header .header-content nav {
-      margin-top: 15px;
       float: right; }
       #header .header-content nav a {
         color: black;
@@ -251,6 +250,43 @@ body {
   #portfolio .portfolio-item:hover {
     cursor: pointer; }
 
+.ats {
+  background-image: url(../../images/portfolio/adult-arms-crossed-bow-tie-1702.jpg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  line-height: 100vh;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 20vw;
+  font-weight: 900;
+  text-align: center; }
+  .ats:before, .ats:after {
+    position: absolute;
+    content: ''; }
+  .ats:before {
+    z-index: -2;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url(../../images/portfolio/adult-arms-crossed-bow-tie-1702.jpg);
+    background-position: center;
+    background-size: cover; }
+  .ats:after {
+    position: absolute;
+    z-index: -1;
+    top: .15em;
+    right: .15em;
+    bottom: .15em;
+    left: .15em;
+    background-color: rgba(255, 255, 255, 0.95); }
+
+.about {
+  background-color: red; }
+
 .view-all {
   padding: 10px; }
   .view-all p {
@@ -267,6 +303,90 @@ body {
       background-color: #a1a4a8;
       color: #fff;
       border: 1px dotted #e84545; }
+
+#service {
+  padding: 50px 0;
+  margin-bottom: 50px; }
+  #service h4 {
+    font-size: 19px;
+    color: #000;
+    font-weight: 400;
+    text-transform: uppercase; }
+  #service .service {
+    padding-top: 30px;
+    float: left; }
+    #service .service .service-content {
+      margin-top: 30px; }
+      #service .service .service-content h5 {
+        text-transform: uppercase;
+        font-weight: 400;
+        color: #000; }
+    #service .service img {
+      opacity: 0.5; }
+
+#map-canvas {
+  width: 100%;
+  height: 400px; }
+
+.active .picme {
+  opacity: 1;
+  color: #333;
+  margin-top: -10px;
+  margin-bottom: 10px; }
+
+#site-social i {
+  padding-top: 7px; }
+#site-social .social {
+  width: 100%;
+  padding: 5px 10px; }
+  #site-social .social a.social {
+    font-size: 18px;
+    color: #595959;
+    margin: 15px auto;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    display: inline-block;
+    line-height: 40px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s; }
+    #site-social .social a.social:hover {
+      background: #333;
+      color: white; }
+#site-social .address {
+  width: 100%;
+  height: auto;
+  margin: 15px auto 0; }
+#site-social .top-button {
+  margin: 30px auto 0;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background: #333;
+  color: #d1d1d1;
+  font-size: 20px;
+  line-height: 40px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s; }
+
+.footer {
+  padding: 45px;
+  text-align: center;
+  background: #333; }
+  .footer h2.company-name {
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 35px;
+    color: #ccc; }
+  .footer p.copyright {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: #8b8b8b;
+    font-size: 14px; }
+    .footer p.copyright a:hover {
+      color: #e84545; }
 
 @media screen and (max-width: 1024px) {
   #header.fixed .header-content {

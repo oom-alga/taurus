@@ -16,3 +16,40 @@
 		}
     }
 }
+
+#service{
+    padding: 50px 0;
+    margin-bottom: 50px;
+    h4 {
+        font-size: 19px;
+        color: #000;
+        font-weight: 400;
+        text-transform: uppercase;
+    }
+    .service{
+        padding-top: 30px;
+        float: left;
+        .service-content {
+            margin-top: 30px;
+            h5 {
+                text-transform: uppercase;
+                font-weight: 400;
+                color: #000;
+            }
+        }
+        img {
+            opacity: 0.5;
+        }
+    }
+}
+
+#map-canvas {
+    width: 100%;
+    height: 400px;
+}
+.active .picme{
+    opacity: 1;
+    color: #333;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
