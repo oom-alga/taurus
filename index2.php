@@ -27,7 +27,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/2_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
         <div class="portfolio-item satu">
@@ -38,7 +38,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/7_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
         <div class="portfolio-item satu">
@@ -49,7 +49,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/13_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
         <div class="portfolio-item satu">

@@ -92,7 +92,7 @@
 }
 
 .index2{
-    background-image: url(../../images/portfolio/adult-arms-crossed-bow-tie-1702.jpg);
+    background-image: url(../../images/portfolio/6_thumb.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -114,7 +114,7 @@
         right: 0;
         bottom: 0;
         left: 0;
-        background-image: url(../../images/portfolio/adult-arms-crossed-bow-tie-1702.jpg);
+        background-image: url(../../images/portfolio/6_thumb.png);
         background-position: center;
         background-size: cover; 
     }
@@ -137,10 +137,12 @@
     padding: 75px 0;
     .about2{
         img{
+            width: 100%;
+            height: auto;
             border: 15px solid #fff;
         }
         .article{
-            padding: 50px 0;
+            padding: 50px 10px;
             i{
                 font-size: 32px;
                 font-weight: 800;
@@ -158,7 +160,7 @@
 }
 
 .index4{
-    background-image:url(../../images/pattern.png),  url(../../images/background/portrait-blue-individuality-black-and-white-157935.jpg), ;
+    background-image:url(../../images/pattern.png),  url(../../images/background/2_bg.png);
     background-repeat: repeat, no-repeat ;
     background-position: center;
     background-size: auto cover ;

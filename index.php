@@ -42,7 +42,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/1_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
         <div class="portfolio-item satu">
@@ -53,7 +53,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/3_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
         <div class="portfolio-item satu">
@@ -64,7 +64,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/10_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
         <div class="portfolio-item satu">
@@ -75,7 +75,40 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/5_thumb.png" class="img-responsive" alt=""> 
+          </a>
+        </div>
+        <div class="portfolio-item satu">
+          <a class="portfolio-link">
+            <div class="caption">
+              <div class="caption-content">
+                <h3>The Shape of Design</h3>
+                <h4>Branding/Graphic1</h4>
+              </div>
+            </div>
+            <img src="images/portfolio/4_thumb.png" class="img-responsive" alt=""> 
+          </a>
+        </div>
+        <div class="portfolio-item satu">
+          <a class="portfolio-link">
+            <div class="caption">
+              <div class="caption-content">
+                <h3>The Shape of Design</h3>
+                <h4>Branding/Graphic1</h4>
+              </div>
+            </div>
+            <img src="images/portfolio/12_thumb.png" class="img-responsive" alt=""> 
+          </a>
+        </div>
+        <div class="portfolio-item satu">
+          <a class="portfolio-link">
+            <div class="caption">
+              <div class="caption-content">
+                <h3>The Shape of Design</h3>
+                <h4>Branding/Graphic1</h4>
+              </div>
+            </div>
+            <img src="images/portfolio/6_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
 

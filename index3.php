@@ -1,13 +1,13 @@
 <?php include "header.php"; ?>
 
 <div class="index3 img-flex">
-   <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" alt="header">
+   <img src="images/background/1_bg.png" alt="header">
 </div>
 <div class="art2">
   <div class="container">
     <div class="row about2 justify-content-center text-center">
-      <div class="col-md-5 img-flex">
-        <img src="images/portfolio/pexels-photo-913135.jpeg" alt="header">
+      <div class="col-md-5">
+        <img src="images/portfolio/8_thumb.png" alt="header">
       </div>
       <div class="col-md-5 article">
         <i>Sambel Pecel</i>
@@ -32,7 +32,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/1_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
         <div class="portfolio-item satu">
@@ -43,7 +43,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" class="img-responsive" alt=""> 
+            <img src="images/portfolio/6_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
 
