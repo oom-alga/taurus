@@ -7,7 +7,7 @@
   <div class="container">
     <div class="row about2 justify-content-center text-center">
       <div class="col-md-5 img-flex">
-        <img src="images/portfolio/adult-arms-crossed-bow-tie-1702.jpg" alt="header">
+        <img src="images/portfolio/pexels-photo-913135.jpeg" alt="header">
       </div>
       <div class="col-md-5 article">
         <i>Sambel Pecel</i>
