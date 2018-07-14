@@ -1,0 +1,31 @@
+/*-- Ajax Style Content --*/
+#ajax-page{
+    position: absolute;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: $white;
+    color: #333;
+    top: 100%;
+    z-index: 999999;
+    padding: 50px 0;
+    overflow-y: auto;
+    -webkit-transition: top 1s ease;
+    -moz-transition: top 1s ease;
+    -ms-transition: top 1s ease;
+    -o-transition: top 1s ease;
+    transition: top 1s ease;
+    border-top: 2px solid #888;
+    .close-ajax{
+        font-size: 24px;
+        margin-bottom: 30px;
+        width: 100%;
+        .ajax-page-close{
+            padding: 20px;
+            color: #fff;
+            background-color: $gray;
+            float: right;
+            cursor: pointer;
+        }
+    } 
+}

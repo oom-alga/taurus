@@ -41,6 +41,9 @@
         -webkit-transition: all 0.3s;
         -moz-transition: all 0.3s;
         transition: all 0.3s;
+        &:hover{
+            color: $red;
+        }
     }
 }
 
@@ -56,11 +59,8 @@
     }
     p.copyright{
         margin-bottom:0;
-        padding-bottom:0;
+        padding-bottom:0px;
         color:#8b8b8b;
         font-size:14px;
-        a:hover{
-            color:#e84545;
-        }
     }
 }

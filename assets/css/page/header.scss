@@ -3,7 +3,7 @@
   width: 100%;
   z-index: 999;
   &.fixed {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: $white;
     .header-content {
 			border-bottom: 0;
 			padding: 25px 10%;
@@ -22,18 +22,15 @@
     transition: padding 0.3s;
     nav {
       float: right;
-      a {
-        color: rgba(0, 0, 0, 1);
-        font-size: 18px;
-        background: #fff;
-      }
-      li {
-        padding: 5px;
-        font-size: 16px;
-        color: #272727;
-        display: inline-block;
-        margin-right: 20px;
-        letter-spacing: 3px;
+      font-size: 16px;
+      ul{
+        background-color: transparent;
+        li {
+          padding: 5px;
+          display: inline-block;
+          margin-right: 20px;
+          letter-spacing: 3px;
+        }
       }
       &.open {
         opacity: 0.9;

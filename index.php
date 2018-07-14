@@ -45,7 +45,7 @@
             <img src="images/portfolio/1_thumb.png" class="img-responsive" alt=""> 
           </a>
         </div>
-        <div class="portfolio-item satu">
+        <div class="portfolio-item dua">
           <a class="portfolio-link">
             <div class="caption">
               <div class="caption-content">
@@ -188,4 +188,23 @@
           </div>
         </div>
       </div>
+
+    <!-- Ajax Page -->
+      <div id="ajax-page">
+        <div class="container text-right">
+          <div class="row text-right">
+            <div class="close-ajax">
+              <div class="ajax-page-close">
+                <p>x</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="ajax-data">
+
+        </div>
+      </div>
+    <!-- Ajax Page end-->
+
+
 <?php include "footer.php"; ?>
