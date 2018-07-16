@@ -1,0 +1,44 @@
+
+/* =======================================================
+* 	Sidebar
+* ======================================================= */
+	/*-- Sidebar Basic --*/
+    #content-sidebar{
+        background: transparent;
+    }
+    .content-sidebar-item{
+        padding-bottom: 30px;
+    }
+
+/*-- Sidebar Categories --*/
+    .sidebar-categories-list li{
+        padding: 10px 25px;
+        border-bottom: 1px solid #ccc;
+    }
+    .sidebar-categories-list li:last-child{
+        border-bottom: 0px;
+    }
+
+/*-- Sidebar About --*/
+    .sidebar-about-share i{
+        padding: 7px;
+        color: #ccc;
+        font-size: 18px;
+    }
+    .sidebar-about-share i:hover{
+        color: #e84545;
+    }
+
+/*-- Sidebar Banner Images --*/
+    .sidebar-banner img{
+        width: 100%;
+    }
+
+/*-- Sidebar Tag --*/
+    .sidebar-tag ul li{
+        display: block;
+        float: left;
+        padding:15px;
+        border:1px dotted #e84545;
+        margin:3px;
+    }

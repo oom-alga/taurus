@@ -53,7 +53,7 @@
                 <h4>Branding/Graphic1</h4>
               </div>
             </div>
-            <img src="images/portfolio/3_thumb.png" class="img-responsive" alt=""> 
+            <img src="images/portfolio/3_thumb.png" class="img-responsive" alt="">  
           </a>
         </div>
         <div class="portfolio-item satu">
@@ -171,19 +171,38 @@
     <!-- Maps end -->
       <div id="site-social">
         <div class="site-social inner no-padding text-center">
-          <div class="social">
-            <a href="#" target="_blank" class="social">
-              <i class="fab fa-facebook-square"></i>
-            </a>
-            <a href="#" target="_blank" class="social">
-              <i class="fab fa-twitter-square"></i>
-            </a>
-          </div>
+          <!-- social -->
+            <div class="social">
+              <!-- Facebook -->
+                <a href="#" target="_blank" class="social">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              <!-- Twitter -->
+                <a href="#" target="_blank" class="social">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              <!-- Google Plus -->
+                <a href="#" target="_blank" class="social">
+                  <i class="fa fa-google-plus"></i>
+                </a>
+              <!-- Linkedin -->
+                <a href="#" target="_blank" class="social">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              <!-- Instagram -->
+                <a href="#" class="social">
+                  <i class="fa fa-instagram"></i>
+                </a>
+              <!-- Vimeo -->
+              <a href="#" target="_blank" class="social">
+                <i class="fa fa-vimeo-square"></i>
+              </a>
+            </div>
           <div class="address">
             <p>Yogyakarta, Demangan depok sleman</p>
             <p>1234 Beo, <span class="bold colored">Nusantara</span></p>
             <a href="#top" class="scroll top-button">
-              <i class="fas fa-angle-double-up"></i>
+              <i class="fa fa-angle-double-up"></i>
             </a>
           </div>
         </div>

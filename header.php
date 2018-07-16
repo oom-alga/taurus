@@ -7,7 +7,7 @@
     <title>NooNusa - Woonesia Best Template Simple</title>
     <link rel="shortcut icon" href="images/white-nusa-logo.png" type="image/x-icon" />
     <link rel="stylesheet" href="assets/vendor/bootstrap-4.0.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/vendor/fontawesome-free-5.1.0-web/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/vendor/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <meta name="viewport" content="user-scalable=no" />
 
