@@ -4,9 +4,9 @@
         float: right;
         margin-right: 30px;
         width: auto;
-        padding: 10px 20px 5px;
+        padding: 10px 20px;
         border: 1px solid #ccc;
-        background-color: #fff;
+        background-color: $white;
         -webkit-transition: all 0.3s; /* Safari */
         transition: all  0.3s;
         &:hover{

@@ -12,5 +12,6 @@
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script src="assets/vendor/nicescroll/jquery.nicescroll.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBW2wxcJLC392oCcPrQ0bjPExOWBfdOCI"></script>
+<!-- <script src="assets/js/ajax.js"></script> -->
 <script src="assets/js/main.js"></script>
 </html>

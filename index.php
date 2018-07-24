@@ -35,7 +35,7 @@
       <div class="row article-me">
         
         <div class="portfolio-item satu">
-          <a class="portfolio-link">
+          <a class="portfolio-link" href="detail1.php">
             <div class="caption">
               <div class="caption-content">
                 <h3>The Shape of Design</h3>
@@ -46,7 +46,7 @@
           </a>
         </div>
         <div class="portfolio-item dua">
-          <a class="portfolio-link">
+          <a class="portfolio-link" href="detail2.php">
             <div class="caption">
               <div class="caption-content">
                 <h3>The Shape of Design</h3>
@@ -57,7 +57,7 @@
           </a>
         </div>
         <div class="portfolio-item satu">
-          <a class="portfolio-link">
+          <a class="portfolio-link" href="detail3.php"> 
             <div class="caption">
               <div class="caption-content">
                 <h3>The Shape of Design</h3>

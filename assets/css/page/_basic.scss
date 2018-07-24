@@ -35,26 +35,13 @@ h5 {
     padding: 3%;
     display: inline-block;
     text-transform: uppercase;
-}
-.btn:hover, .btn:focus {
-    background-color: $black;
-    color: $white;
+    &:hover, &:focus {
+        background-color: $black;
+        color: $white;
+    }
 }
 .btn-large {
     padding: 15px 40px;
-}
-
-/*-- A Styling --*/
-a {
-    color: $red;
-}
-a:hover, a:focus {
-    text-decoration: none;
-    -moz-transition: background-color, color, 0.3s;
-    -o-transition: background-color, color, 0.3s;
-    -webkit-transition: background-color, color, 0.3s;
-    transition: background-color, color, 0.3s;
-    cursor: pointer;
 }
 
 /*-- List Styling --*/
@@ -72,15 +59,14 @@ ol li {
   -webkit-box-flex: auto;
   -ms-flex: auto;
   flex: auto;
-}
-
-.img-flex img {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-}
+  img {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+} 
 
 /*-- Form Input Styling --*/
 input,
@@ -92,7 +78,7 @@ textarea {
     color: $white;
     border-radius: 4px;
     margin-bottom: 10px;
-}
-textarea:focus, input:focus{
-    outline: none;
+    &:focus, &:focus{
+        outline: none;
+    }
 }
